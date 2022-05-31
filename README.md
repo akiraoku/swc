@@ -11,7 +11,7 @@ SWitcher Controller for IMAGENICS
 + The copyright of this software is owned by IMAGENICS Co.,Ltd.
 + This software may not be used for any purpose other than adjustment of our products.
 
-2.Prohibition of redistribution
+2. Prohibition of redistribution
 + Redistribution of this software through any means or network other than our website is prohibited.
 
 - Disclaimer
