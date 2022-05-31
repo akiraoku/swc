@@ -1,13 +1,26 @@
 # swc
 SWitcher Controller for IMAGENICS
 
-## Platforms supported
+## Operating Environment
 | Operating System  | Version          | Additional Requirements |
 |:-----------------:|:----------------:|:-----------------------:|
-| Microsoft Windows | 10 or 11         | .NET Framework 4.6.1    |
+| Microsoft Windows | 10               | .NET Framework 4.6.1    |
+
+### Terms of Use
+1. Copyright
++ The copyright of this software is owned by IMAGINIX CORPORATION.
++ This software may not be used for any purpose other than adjustment of our products.
+
+2.Prohibition of redistribution
++ Redistribution of this software through any means or network other than our website is prohibited.
+
+++ Disclaimer
+
+```
+We do not guarantee the specifications and performance of this software. This software is not supported. We are not responsible for any problems caused by downloading this software and storing it on a hard disk or other storage device, and we do not guarantee or compensate for any problems that may occur.  We are not responsible for any problems or damages to you or any third party that may result from the use of this software, nor do we guarantee or compensate for such problems or damages.  We are not responsible for any problems or troubles other than those mentioned above that may occur as a result of downloading or using this software, nor do we guarantee or compensate for such problems or damages. Please do not copy this file to "Program Files" folder or "Program Files(x86)" folder on your PC.
+```
 
 ## Installation
-
 - Download a compiled binary for Windows [releases](https://github.com/akiraoku/swc/releases/download/v1/swc.exe) page.
 - Download a hash [releases](https://github.com/akiraoku/swc/releases/download/v1/swc.hash) page.
 
