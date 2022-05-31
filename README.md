@@ -14,10 +14,13 @@ SWitcher Controller for IMAGENICS
 2.Prohibition of redistribution
 + Redistribution of this software through any means or network other than our website is prohibited.
 
-++ Disclaimer
+- Disclaimer
 
 ```
-We do not guarantee the specifications and performance of this software. This software is not supported. We are not responsible for any problems caused by downloading this software and storing it on a hard disk or other storage device, and we do not guarantee or compensate for any problems that may occur.  We are not responsible for any problems or damages to you or any third party that may result from the use of this software, nor do we guarantee or compensate for such problems or damages.  We are not responsible for any problems or troubles other than those mentioned above that may occur as a result of downloading or using this software, nor do we guarantee or compensate for such problems or damages. Please do not copy this file to "Program Files" folder or "Program Files(x86)" folder on your PC.
+We do not guarantee the specifications and performance of this software. 
+This software is not supported. We are not responsible for any problems caused by downloading this software and storing it on a hard disk or other storage device, and we do not guarantee or compensate for any problems that may occur.  
+We are not responsible for any problems or damages to you or any third party that may result from the use of this software, nor do we guarantee or compensate for such problems or damages.  
+We are not responsible for any problems or troubles other than those mentioned above that may occur as a result of downloading or using this software, nor do we guarantee or compensate for such problems or damages. Please do not copy this file to "Program Files" folder or "Program Files(x86)" folder on your PC.
 ```
 
 ## Installation
